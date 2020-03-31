@@ -22,19 +22,19 @@ The Source folder consists of 3 components:
 
 3.  Personal Chat and other functionalities
 
-![](media/55f814d13120cfd3c6a65118b02ef53b.png)
-
 **Snapshots Of The Application :**
 
 **Login Page:**
 
-![](media/48bcff35cca7a5d02e9f156e7d2bfb67.png)
+![](media/dd9a899b82426d901a610eebca2f5795.png)
 
-![](media/a2d7679c6689b199aab89e3e7a46a5f1.png)
+![](media/89ee19fc1d8adce559aab3dc5ac24a3b.png)
 
 C**hatroom Page:**
 
-Settings Page:
+![](media/c38e82bd60320492f0f60a3f973d4d3e.png)
+
+**Settings Page:**
 
 Preview
 =======
