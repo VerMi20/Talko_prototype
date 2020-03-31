@@ -27,22 +27,12 @@ The Source folder consists of 3 components:
 **Login Page:**
 
 ![](readme_assets/login.png)
-![](readme_assests/chatroom.png)
 
 **Chatroom Page:**
-![](readme_assests/chatroom.png)
-
-
-
-
+![](readme_assets/chatroom.png)
 
 **Settings Page:**
 ![](readme_assets/settings.png)
-
-
-
-
-
 
 Preview
 =======
